@@ -199,224 +199,224 @@
     "message": "Vklad tvých BTC na adresu uvedenou níže:"
   },
   "depositCoin": {
-    "message": "Deposit your $1 to the address below",
-    "description": "Tells the user what coin they have selected to deposit with shapeshift"
+    "message": "Vlož 1$ na adresu níže",
+    "description": "Říká uživateli jakou měnu si vybral ke vkladu přes shapeshift"
   },
   "depositEth": {
-    "message": "Deposit Eth"
+    "message": "Vklad Eth"
   },
   "depositEther": {
-    "message": "Deposit Ether"
+    "message": "Vklad Ether"
   },
   "depositFiat": {
-    "message": "Deposit with Fiat"
+    "message": "Vklad přes Fiat"
   },
   "depositFromAccount": {
-    "message": "Deposit from another account"
+    "message": "Vklad z jiného účtu"
   },
   "depositShapeShift": {
-    "message": "Deposit with ShapeShift"
+    "message": "Vklad přes ShapeShift"
   },
   "depositShapeShiftExplainer": {
-    "message": "If you own other cryptocurrencies, you can trade and deposit Ether directly into your MetaMask wallet. No Account Needed."
+    "message": "Pokud vlastníš jinou kryptoměnu, můžeš obchodovat a vkládat Ether přímo uvnitř MetaMask peněženky. Nemusíš mít další účet."
   },
   "details": {
-    "message": "Details"
+    "message": "Detaily"
   },
   "directDeposit": {
-    "message": "Direct Deposit"
+    "message": "Přímý vklad"
   },
   "directDepositEther": {
-    "message": "Directly Deposit Ether"
+    "message": "Přímý vklad Etheru"
   },
   "directDepositEtherExplainer": {
-    "message": "If you already have some Ether, the quickest way to get Ether in your new wallet by direct deposit."
+    "message": "Pokud již máš nějaký Ether, přímý vklad je nejrychlejší cestou jak dostat Ether do tvé nové peněženky."
   },
   "done": {
-    "message": "Done"
+    "message": "Hotovo"
   },
   "downloadStateLogs": {
-    "message": "Download State Logs"
+    "message": "Stáhnout State Logy"
   },
   "dropped": {
     "message": "Dropped"
   },
   "edit": {
-    "message": "Edit"
+    "message": "Uprav"
   },
   "editAccountName": {
-    "message": "Edit Account Name"
+    "message": "Upravit jméno účtu"
   },
   "emailUs": {
-    "message": "Email us!"
+    "message": "Napiš nám!"
   },
   "encryptNewDen": {
-    "message": "Encrypt your new DEN"
+    "message": "Zašifrovat tvůj nový DEN"
   },
   "enterPassword": {
-    "message": "Enter password"
+    "message": "Vlož heslo"
   },
   "enterPasswordConfirm": {
-    "message": "Enter your password to confirm"
+    "message": "Potvrď tvé heslo"
   },
   "passwordNotLongEnough": {
-    "message": "Password not long enough"
+    "message": "Heslo není dostatečně dlouhé."
   },
   "passwordsDontMatch": {
-    "message": "Passwords Don't Match"
+    "message": "Hesla se neshodují"
   },
   "etherscanView": {
-    "message": "View account on Etherscan"
+    "message": "Prohlídka účtu na Etherscanu"
   },
   "exchangeRate": {
-    "message": "Exchange Rate"
+    "message": "Směnný kurz"
   },
   "exportPrivateKey": {
-    "message": "Export Private Key"
+    "message": "Exportuj privátní klíč"
   },
   "exportPrivateKeyWarning": {
-    "message": "Export private keys at your own risk."
+    "message": "Exportování privátního klíče na vlastní nebezpečí."
   },
   "failed": {
-    "message": "Failed"
+    "message": "Selhalo"
   },
   "fiat": {
     "message": "FIAT",
-    "description": "Exchange type"
+    "description": "Typ směny"
   },
   "fileImportFail": {
-    "message": "File import not working? Click here!",
-    "description": "Helps user import their account from a JSON file"
+    "message": "Vložení souboru nefunguje? Klikni zde!",
+    "description": "Pomáhá uživateli vkládat jeho účet přes JSON soubor"
   },
   "followTwitter": {
-    "message": "Follow us on Twitter"
+    "message": "Sleduj nás na Twitteru"
   },
   "from": {
-    "message": "From"
+    "message": "Z"
   },
   "fromToSame": {
-    "message": "From and To address cannot be the same"
+    "message": "odchozí a příchozí adresa nemůže být stejná"
   },
   "fromShapeShift": {
-    "message": "From ShapeShift"
+    "message": "Z ShapeShiftu"
   },
   "gas": {
     "message": "Gas",
-    "description": "Short indication of gas cost"
+    "description": "Označení gas ceny"
   },
   "gasFee": {
-    "message": "Gas Fee"
+    "message": "Gas poplatek"
   },
   "gasLimit": {
     "message": "Gas Limit"
   },
   "gasLimitCalculation": {
-    "message": "We calculate the suggested gas limit based on network success rates."
+    "message": "Odhadujeme gas limit podle úspěšnosti na síti."
   },
   "gasLimitRequired": {
-    "message": "Gas Limit Required"
+    "message": "Gas Limit vyžadován"
   },
   "gasLimitTooLow": {
-    "message": "Gas limit must be at least 21000"
+    "message": "Gas limit musí být nejméně 21000"
   },
   "generatingSeed": {
-    "message": "Generating Seed..."
+    "message": "Generuji Seed (semínko)..."
   },
   "gasPrice": {
     "message": "Gas Price (GWEI)"
   },
   "gasPriceCalculation": {
-    "message": "We calculate the suggested gas prices based on network success rates."
+    "message": "Odhadujeme gas cenu podle úspěšnosti na síti."
   },
   "gasPriceRequired": {
-    "message": "Gas Price Required"
+    "message": "Gas Price vyžadována"
   },
   "getEther": {
-    "message": "Get Ether"
+    "message": "Získej Ether"
   },
   "getEtherFromFaucet": {
     "message": "Get Ether from a faucet for the $1",
     "description": "Displays network name for Ether faucet"
   },
   "greaterThanMin": {
-    "message": "must be greater than or equal to $1.",
-    "description": "helper for inputting hex as decimal input"
+    "message": "musí být vyšší nebo rovno 1$.",
+    "description": "Pomocník při vkládání hex jako desetinného vložení"
   },
   "here": {
-    "message": "here",
+    "message": "zde",
     "description": "as in -click here- for more information (goes with troubleTokenBalances)"
   },
   "hereList": {
-    "message": "Here's a list!!!!"
+    "message": "Zde je seznam!!!"
   },
   "hide": {
-    "message": "Hide"
+    "message": "Schovat"
   },
   "hideToken": {
-    "message": "Hide Token"
+    "message": "Schovat Token"
   },
   "hideTokenPrompt": {
-    "message": "Hide Token?"
+    "message": "Schovat Token?"
   },
   "howToDeposit": {
-    "message": "How would you like to deposit Ether?"
+    "message": "Jak chceš vložit Ether?"
   },
   "holdEther": {
-    "message": "It allows you to hold ether & tokens, and serves as your bridge to decentralized applications."
+    "message": "Umožňuje držet ether a tokeny, a zároveň slouží jako prostředek k decentralizovaným aplikacím."
   },
   "import": {
-    "message": "Import",
-    "description": "Button to import an account from a selected file"
+    "message": "Vlož",
+    "description": "Tlačítko k vložení účtu z vybraného souboru"
   },
   "importAccount": {
-    "message": "Import Account"
+    "message": "Vložit účet"
   },
   "importAccountMsg": {
     "message":" Imported accounts will not be associated with your originally created MetaMask account seedphrase. Learn more about imported accounts "
   },
   "importAnAccount": {
-    "message": "Import an account"
+    "message": "Vložit účet"
   },
   "importDen": {
-    "message": "Import Existing DEN"
+    "message": "Vlož existující DEN"
   },
   "imported": {
-    "message": "Imported",
-    "description": "status showing that an account has been fully loaded into the keyring"
+    "message": "Vloženo",
+    "description": "status že účet byl plně nahrán"
   },
   "infoHelp": {
     "message": "Info & Help"
   },
   "insufficientFunds": {
-    "message": "Insufficient funds."
+    "message": "Nedostatek prostředků."
   },
   "insufficientTokens": {
-    "message": "Insufficient tokens."
+    "message": "Nedostatek tokenů."
   },
   "invalidAddress": {
-    "message": "Invalid address"
+    "message": "Neplatná adresa"
   },
   "invalidAddressRecipient": {
-    "message": "Recipient address is invalid"
+    "message": "Adresa příjemnce není platná"
   },
   "invalidGasParams": {
-    "message": "Invalid Gas Parameters"
+    "message": "Neplatné Gas parametry"
   },
   "invalidInput": {
-    "message": "Invalid input."
+    "message": "Neplatný vstup."
   },
   "invalidRequest": {
-    "message": "Invalid Request"
+    "message": "Neplatný požadavek"
   },
   "invalidRPC": {
-    "message": "Invalid RPC URI"
+    "message": "Neplatné RPC URI"
   },
   "jsonFail": {
-    "message": "Something went wrong. Please make sure your JSON file is properly formatted."
+    "message": "Něco je špatně. Prosím zkontroluj, zda je JSON soubor ve správném formátu."
   },
   "jsonFile": {
-    "message": "JSON File",
-    "description": "format for importing an account"
+    "message": "JSON soubor",
+    "description": "formát k vložení účtu"
   },
   "keepTrackTokens": {
     "message": "Keep track of the tokens you’ve bought with your MetaMask account."
